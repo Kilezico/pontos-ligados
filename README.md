@@ -10,7 +10,7 @@ Controles:
 
 - Barra de Espaço -> Cria novos pontos;
 - 'R' -> Apaga todos os pontos na tela;
-- 'Q' ou Escape -> Fecha o programa.
+- 'Q' -> Fecha o programa.
 
 
 
